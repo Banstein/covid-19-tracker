@@ -1,10 +1,9 @@
-/* eslint-disable camelcase */
 import React from 'react';
 import PropTypes from 'prop-types';
 import { NavLink } from 'react-router-dom';
 import './OneCountry.css';
 
-function OneCountry({ name, today_confirmed }) {
+function OneCountry({ name, todayConfirmed }) {
   return (
     <NavLink to={`/${name}`}>
       <li className="card">
@@ -13,7 +12,7 @@ function OneCountry({ name, today_confirmed }) {
           <i className="fa-regular fa-circle-right" />
         </div>
         <h5>{name}</h5>
-        <h6>{today_confirmed}</h6>
+        <h6>{todayConfirmed}</h6>
       </li>
     </NavLink>
   );
@@ -21,7 +20,7 @@ function OneCountry({ name, today_confirmed }) {
 
 OneCountry.propTypes = {
   name: PropTypes.string.isRequired,
-  today_confirmed: PropTypes.number.isRequired,
+  todayConfirmed: PropTypes.number.isRequired,
 };
 
 export default OneCountry;

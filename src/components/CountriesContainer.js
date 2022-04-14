@@ -44,7 +44,7 @@ function CountriesContainer() {
             key={id}
             id={id}
             name={name}
-            today_confirmed={today_confirmed}
+            todayConfirmed={today_confirmed}
             className="striped"
           />
         ))}
