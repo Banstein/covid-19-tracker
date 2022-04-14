@@ -77,7 +77,7 @@ Give a :star: if you like this project!
 
 ## Acknowledgments
 
-- Special thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
+- Special thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the design
 
 ## 📝 License
 
