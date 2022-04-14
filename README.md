@@ -1,44 +1,84 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Covid-19-tracker
 
-## Available Scripts
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+> "covid-19-tracker" is a webapp that allows users to track and watch the statistics of covid-19 cases for each country and also the regions within the country updated evrey day.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Built With
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+This project is built with:
 
-### `npm test`
+- ![React](https://img.shields.io/badge/-React-1d1919?style=flat&logo=react)
+- ![Redux](https://img.shields.io/badge/-Redux-1d1919?style=flat&logo=redux)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1919?style=flat&logo=javascript)
+- ![HTML](https://img.shields.io/badge/-HTML-1d1919?style=flat&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Live Demo
 
-### `npm run build`
+Click [here](https://shielded-spire-72940.herokuapp.com/) to see the live demo
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Live Video
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Click [here]()
 
-### `npm run eject`
+## Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+To get the content of this project locally you need to run these commands in your terminal.
+Before starting the steps below, be sure you have [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/) and [Node.js](https://nodejs.dev/learn/how-to-install-nodejs) installed in your computer.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. `git clone https://github.com/Banstein/covid-19-tracker.git`
+2. `cd covid-19-tracker`
+3. `npm install` 
+  This will download all the dependancies of the project.
+4. `npm start` 
+  The page will open at http://localhost:3000 in your browser.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+It correctly bundles React in production mode and optimizes the build for the best performance. 
 
-## Learn More
+## Test
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+For tracking linter errors locally you need to follow these steps:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- After cloning the project make sure you have run this command
+
+  > `npm install` command
+
+- For tracking the linter errors in CSS file run:
+
+  > `npx stylelint "\*_/_.{css,scss}"`
+
+- For tracking the linter errors in JavaScript file run:
+
+  > `npx eslint .`
+
+- And For running some unit tests:
+
+  > `npm test`
+
+## Authors
+
+👤 **Islam Bahnas**
+
+- GitHub: [@Banstein](https://github.com/Banstein)
+- Twitter: [@islam_bahnas](https://twitter.com/islam_bahnas)
+- LinkedIn: [islam-bahnas](www.linkedin.com/in/islam-bahnas)
+
+## :handshake: Contributing
+
+Feel free to check the [issues page](https://github.com/Banstein/covid-19-tracker/issues)
+
+## Show your support
+
+Give a :star: if you like this project!
+
+## Acknowledgments
+
+- Special thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
