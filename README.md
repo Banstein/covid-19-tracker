@@ -1,10 +1,26 @@
 # Covid-19-tracker
 
-## Screenshots
+
+
 
 ## Description
 
 > "covid-19-tracker" is a webapp that allows users to track and watch the statistics of covid-19 cases for each country and also the regions within the country updated evrey day.
+
+## Screenshots
+
+![screen 1](https://user-images.githubusercontent.com/35707975/163510923-0f3755a8-789c-4009-bb7d-5899543081df.png)
+
+![screen 2](https://user-images.githubusercontent.com/35707975/163510930-643626c3-2081-4bb5-b75f-95488000f3f9.png)
+
+## Live Demo
+
+Click [here](https://shielded-spire-72940.herokuapp.com/) to see the live demo
+
+
+## Live Video
+
+Click [here](https://www.loom.com/share/0d0b38db6fa348b9b02f4e08c8c2bb6d)
 
 ## Built With
 
@@ -15,15 +31,6 @@ This project is built with:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1919?style=flat&logo=javascript)
 - ![HTML](https://img.shields.io/badge/-HTML-1d1919?style=flat&logo=html5)
 - ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-
-## Live Demo
-
-Click [here](https://shielded-spire-72940.herokuapp.com/) to see the live demo
-
-
-## Live Video
-
-Click [here](https://www.loom.com/share/0d0b38db6fa348b9b02f4e08c8c2bb6d)
 
 ## Getting Started
 
