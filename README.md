@@ -23,7 +23,7 @@ Click [here](https://shielded-spire-72940.herokuapp.com/) to see the live demo
 
 ## Live Video
 
-Click [here]()
+Click [here](https://www.loom.com/share/0d0b38db6fa348b9b02f4e08c8c2bb6d)
 
 ## Getting Started
 
