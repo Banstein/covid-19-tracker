@@ -1,5 +1,6 @@
 # Covid-19-tracker
 
+## Screenshots
 
 ## Description
 
