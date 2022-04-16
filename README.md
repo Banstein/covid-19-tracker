@@ -5,7 +5,7 @@
 
 ## Description
 
-> "covid-19-tracker" is a webapp that allows users to track and watch the statistics of covid-19 cases for each country and also the regions within the country updated evrey day.
+> "covid-19-tracker" is a webapp that allows users to track and watch the statistics of covid-19 cases for each country and also the regions within the country updated every day.
 
 ## Screenshots
 
